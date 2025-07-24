@@ -45,7 +45,7 @@ ValidBraces/
   └── test_stack_library.c
 ```
 
-## Stack Implementation Overview
+## Stack_Implementation_Overview
 If we look "under the hood" and enter the libs folder, we will find several files: stack.c and ValidBraces.c. Initially, the second file was created for testing purposes, and later I realized that the main file main.c could be used to handle console interaction.
 
 In the stack.c file:
@@ -66,17 +66,17 @@ peek → takes a pointer to the stack.
 Returns the value of the top element or -1 if the stack is empty.
 
 
-## Bracket Validator Logic
+## Bracket_Validator_Logic
 
-## Libraries in the libs Folder
+## Libraries_in the_libs_Folder
 
-## Compilation and Usage
+## Compilation_and_Usage
 
-## Running via Console
+## Running_via_Console
 
-## Examples of Input and Output
+## Examples_of_Input_and_Output
 
-## How to Use in Your Own Projects
+## How_to_Use_in_Your_Own_Projects
 
 ## Conclusion
 
