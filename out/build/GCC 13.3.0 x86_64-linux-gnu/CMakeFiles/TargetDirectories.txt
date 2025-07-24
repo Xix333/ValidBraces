@@ -1,0 +1,7 @@
+/home/ilya/CProjects/ValidBraces/out/build/GCC 13.3.0 x86_64-linux-gnu/CMakeFiles/stack.dir
+/home/ilya/CProjects/ValidBraces/out/build/GCC 13.3.0 x86_64-linux-gnu/CMakeFiles/validbraces_core.dir
+/home/ilya/CProjects/ValidBraces/out/build/GCC 13.3.0 x86_64-linux-gnu/CMakeFiles/ValidBraces.dir
+/home/ilya/CProjects/ValidBraces/out/build/GCC 13.3.0 x86_64-linux-gnu/CMakeFiles/test_stack.dir
+/home/ilya/CProjects/ValidBraces/out/build/GCC 13.3.0 x86_64-linux-gnu/CMakeFiles/test_main.dir
+/home/ilya/CProjects/ValidBraces/out/build/GCC 13.3.0 x86_64-linux-gnu/CMakeFiles/edit_cache.dir
+/home/ilya/CProjects/ValidBraces/out/build/GCC 13.3.0 x86_64-linux-gnu/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/test_stack.dir/tests/test_stack_library.c.o -o test_stack  libstack.a 

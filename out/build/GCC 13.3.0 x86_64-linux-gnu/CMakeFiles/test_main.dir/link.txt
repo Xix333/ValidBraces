@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/test_main.dir/tests/test_main.c.o -o test_main  libvalidbraces_core.a libstack.a 

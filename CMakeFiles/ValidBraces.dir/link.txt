@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ValidBraces.dir/src/main.c.o -o ValidBraces  libvalidbraces_core.a libstack.a 

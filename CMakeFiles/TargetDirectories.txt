@@ -1,0 +1,7 @@
+/home/ilya/CProjects/ValidBraces/CMakeFiles/stack.dir
+/home/ilya/CProjects/ValidBraces/CMakeFiles/validbraces_core.dir
+/home/ilya/CProjects/ValidBraces/CMakeFiles/ValidBraces.dir
+/home/ilya/CProjects/ValidBraces/CMakeFiles/test_stack.dir
+/home/ilya/CProjects/ValidBraces/CMakeFiles/test_main.dir
+/home/ilya/CProjects/ValidBraces/CMakeFiles/edit_cache.dir
+/home/ilya/CProjects/ValidBraces/CMakeFiles/rebuild_cache.dir

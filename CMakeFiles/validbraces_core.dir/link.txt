@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvalidbraces_core.a CMakeFiles/validbraces_core.dir/src/main.c.o
+/usr/bin/ranlib libvalidbraces_core.a
