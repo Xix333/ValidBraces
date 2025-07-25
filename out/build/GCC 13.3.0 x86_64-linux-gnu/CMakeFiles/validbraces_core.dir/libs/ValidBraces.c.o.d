@@ -1,8 +1,8 @@
 CMakeFiles/validbraces_core.dir/libs/ValidBraces.c.o: \
  /home/ilya/CProjects/ValidBraces/libs/ValidBraces.c \
  /usr/include/stdc-predef.h \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h \
  /home/ilya/CProjects/ValidBraces/libs/headers/ValidBraces.h \
+ /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h \
  /home/ilya/CProjects/ValidBraces/libs/headers/stack.h \
  /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
