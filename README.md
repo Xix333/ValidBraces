@@ -87,11 +87,42 @@ The project has a straightforward structure:
 
 
 ## Compilation_and_Usage
+If you already have CMake installed, you can build the project with the following steps:
+```
+mkdir build
+cd build
+cmake ..
+make ValidBraces
+```
+Or, since the project is small, you can compile it directly:
+```
+cmake .
+make ValidBraces
+```
+Alternatively, you can compile directly with gcc:
+```
+gcc src/main.c libs/stack.c libs/ValidBraces.c -o ValidBraces
+```
+
+
 
 ## Running_via_Console
+Once compiled, you can run the program from the console by passing a string of brackets as an argument:
+```
+./ValidBraces "({[]})"
+```
 
 ## Examples_of_Input_and_Output
+```
+./ValidBraces "()()()"
+# Output: The braces are valid.
 
+./ValidBraces "([]){}"
+# Output: The braces are valid.
+
+./ValidBraces "()()(){{}}())[][]]]"
+# Output: The braces are invalid.
+```
 ## Dependencies
 The project uses only three standard C libraries:
 
@@ -102,6 +133,8 @@ The project uses only three standard C libraries:
     <assert.h> – for runtime checks and debugging.
 
 ## How_to_Use_in_Your_Own_Projects
+This section is still being expanded, and the repository will continue to be updated in the future.
+In fact, the usage of this open project is limited only by your imagination!
 
 ## Conclusion
 As a result, I gained a sea of emotions and valuable experience from implementing this task on my local machine. I believe this project will serve as a good example for beginner programmers, allowing them to experiment with the task and come up with their own interesting implementations. :)
