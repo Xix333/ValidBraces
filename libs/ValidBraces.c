@@ -1,7 +1,4 @@
-#include <stdbool.h>
 #include "headers/ValidBraces.h"
-#include "headers/stack.h"
-
 
 
 
